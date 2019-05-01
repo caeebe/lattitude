@@ -1,0 +1,19 @@
+body {
+    background-color:#DCDCDC;
+}
+.bluish_text {
+    color:darkturquoise;
+}
+.background_bluish{
+    background-color: darkturquoise;
+}
+
+.sm_bluish {
+    background-color: white;
+}
+
+@media (max-width: 767px) {
+  .sm_bluish {
+    background-color: darkturquoise;
+  }
+}
